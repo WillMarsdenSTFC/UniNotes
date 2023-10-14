@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5e863a9335fbe5",
+        "id": "1019827a64c1a52e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c7fddfc793537b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1 - Programming Concepts/Week 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97bc67d55674c885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398f191e810a8685",
+            "id": "bc34456dd2f91fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97bc67d55674c885",
+  "active": "bc34456dd2f91fbe",
   "lastOpenFiles": [
+    "Week 1 - Programming Concepts/Week 1 Notes.md",
+    "Week 2 - Selection & Iteration/Week 2 Notes.md",
     "sync.sb-70813c47-y5LEEu",
     "sync",
-    "Week 2 - Selection & Iteration/Week 2 Notes.md",
-    "Week 1 - Programming Concepts/Week 1 Notes.md",
     "Week 3 - Classes & Objects",
     "Week 2 - Selection & Iteration",
     "Week 1 - Programming Concepts"
