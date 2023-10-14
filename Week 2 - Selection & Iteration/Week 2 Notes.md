@@ -1,5 +1,5 @@
 
-# **Selection**
+# **Selections**
 
 ```java
 if(stringVariable.equals("N")) {
