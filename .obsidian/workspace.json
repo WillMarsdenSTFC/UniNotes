@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "db97b741ba811f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d5e863a9335fbe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c7fddfc793537b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - Programming Concepts/Week 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97bc67d55674c885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "398f191e810a8685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e27d63bc5a8f350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b060d6c868aca1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38937663d7e88427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2b0a98b86dcd15e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df8e42a34a3f036e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e0db0ca319a6311",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4fe504d3faed68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7001f72daf4ed5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc1fa0bf8b6624fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "499a111b9732d41a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01433ad5006c7925",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 2 - Selection & Iteration/Week 2 Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97bc67d55674c885",
+  "lastOpenFiles": [
+    "Week 2 - Selection & Iteration/Week 2 Notes.md",
+    "Week 1 - Programming Concepts/Week 1 Notes.md",
+    "Week 3 - Classes & Objects",
+    "Week 2 - Selection & Iteration",
+    "Week 1 - Programming Concepts"
+  ]
+}
