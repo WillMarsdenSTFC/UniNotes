@@ -1,6 +1,6 @@
 
 ```java
-import java.utils.
+import java.utils.ArrayList;
 ```
 
 # **List**
