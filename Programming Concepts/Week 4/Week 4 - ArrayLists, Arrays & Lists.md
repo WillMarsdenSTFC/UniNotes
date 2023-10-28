@@ -69,7 +69,8 @@ for (String i : testArray) {
 // Output: Test1, Test2, Test3
 ```
 
-**Sort items in ArrayList
+**Sort items in ArrayList**
+Sorts items alphabetically by default.
 ```java
 import java.utils.Collections;
 testArray.sort();
