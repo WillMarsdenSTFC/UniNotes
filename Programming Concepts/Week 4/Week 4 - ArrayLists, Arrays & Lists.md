@@ -22,5 +22,10 @@ testArray.add("Test2");
 **Get items from ArrayList**
 
 ```java
+testArray.get(index);
+String testIndex = testArray.get(0);
+System.out.println(testIndex);
 
+// Output: Test1
 ```
+
