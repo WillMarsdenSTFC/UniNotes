@@ -15,3 +15,12 @@
 
 - Who are the opposition?
 	-  Space Police /  Asteroids
+#  To Do List
+
+- Power ups
+- Health / Score
+- Space Police
+- Add Enemies / Increase Speed
+- Different Enemy Types
+- 
+
