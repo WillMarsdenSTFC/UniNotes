@@ -11,7 +11,7 @@
 	- Score based system / Survive the longest  
 
 - What items can be stored, collected, or used?
-	-  
+	-  Power ups (Weapons, Boosts)
 
 - Who are the opposition?
-	- 
+	-  Space Police /  Asteroids
