@@ -22,5 +22,6 @@
 - Space Police
 - Add Enemies / Increase Speed
 - Different Enemy Types
-- 
+- Space Police Firing Bullets
+- Ending?
 
