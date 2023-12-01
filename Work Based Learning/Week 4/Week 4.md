@@ -10,9 +10,16 @@
 # Planning
 
 - Understanding the Assignment
-- Research
+- Research (https://scholar.google.com)
 - Planning
 - Drafting
 - Revising
 - Proofreading
 - Submission
+
+# Understanding the assignment
+
+- Task requirements
+- Required content
+- Style
+- Marking criteria
