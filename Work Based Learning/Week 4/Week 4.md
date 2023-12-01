@@ -23,3 +23,14 @@
 - Required content
 - Style
 - Marking criteria
+
+# Research
+- Notes
+- Lectures
+- Core texts
+- LibrarySearch
+	- Online Books
+- Scholar
+- Magazines/Newspapers
+- Credible websites
+
