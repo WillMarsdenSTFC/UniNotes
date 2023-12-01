@@ -7,4 +7,12 @@
 - Allow for time-off.
 
 
-# 
+# Planning
+
+- Understanding the Assignment
+- Research
+- Planning
+- Drafting
+- Revising
+- Proofreading
+- Submission
