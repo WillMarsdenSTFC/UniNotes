@@ -11,11 +11,28 @@
             "id": "0d4bcecb326273e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work Based Learning/Week 1/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44009e75416f1798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Based Learning/Week 4/Week 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work Based Learning/Week 4/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work Based Learning/Week 4/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work Based Learning/Week 4/Week 4.md"
+              }
             }
           }
         ]
@@ -140,9 +161,11 @@
   },
   "active": "38937663d7e88427",
   "lastOpenFiles": [
+    "Work Based Learning/Week 1/Week 1.md",
+    "Work Based Learning/Week 4/Week 4.md",
+    "Work Based Learning/Week 4",
     "Work Based Learning/Week 3/Week 3.md",
     "Work Based Learning/Week 2/Week 2.md",
-    "Work Based Learning/Week 1/Week 1.md",
     "Work Based Learning/Week 3",
     "Work Based Learning/Week 2",
     "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
@@ -157,7 +180,6 @@
     "Programming Concepts/Week 4",
     "Work Based Learning",
     "Programming Concepts",
-    "sync.sb-8e25ecaa-FpGVO9",
-    "sync.sb-70813c47-y5LEEu"
+    "sync.sb-8e25ecaa-FpGVO9"
   ]
 }
