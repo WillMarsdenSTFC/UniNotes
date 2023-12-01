@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e1bec7a1eb46554",
+        "id": "0155b5e8f96c3bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "49c11b86483f258b",
+            "id": "0d4bcecb326273e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49c11b86483f258b",
+  "active": "38937663d7e88427",
   "lastOpenFiles": [
+    "Work Based Learning/Week 3/Week 3.md",
+    "Work Based Learning/Week 2/Week 2.md",
+    "Work Based Learning/Week 1/Week 1.md",
+    "Work Based Learning/Week 3",
+    "Work Based Learning/Week 2",
+    "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
     "Programming Concepts/Week 4/Week 4 - ArrayLists, Arrays & Lists.md",
     "Programming Concepts/Week 3/Week 3 - Classes & Objects.md",
     "Programming Concepts/Week 2/Week 2 - Selection & Iteration.md",
@@ -155,14 +153,11 @@
     "Assignment/Assignment Story.md",
     "Assignment",
     "Work Based Learning/Week 1",
-    "Programming Concepts/Week 5/Week 5 - Consolidation Week - Q&A.md",
     "Programming Concepts/Week 5",
     "Programming Concepts/Week 4",
     "Work Based Learning",
     "Programming Concepts",
     "sync.sb-8e25ecaa-FpGVO9",
-    "sync.sb-70813c47-y5LEEu",
-    "sync",
-    "Programming Concepts/Week 3"
+    "sync.sb-70813c47-y5LEEu"
   ]
 }
