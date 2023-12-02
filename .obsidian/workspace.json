@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Based Learning/Week 1/Week 1.md",
+                "file": "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Based Learning/Week 4/Week 4.md",
+                "file": "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Based Learning/Week 4/Week 4.md",
+                "file": "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Based Learning/Week 4/Week 4.md",
+                "file": "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Based Learning/Week 4/Week 4.md"
+                "file": "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38937663d7e88427",
+  "active": "44009e75416f1798",
   "lastOpenFiles": [
-    "Work Based Learning/Week 1/Week 1.md",
+    "Assignment/Assignment Story.md",
     "Work Based Learning/Week 4/Week 4.md",
+    "Work Based Learning/Week 1/Week 1 - Intro to Work Based Learning.md",
     "Work Based Learning/Week 4",
     "Work Based Learning/Week 3/Week 3.md",
     "Work Based Learning/Week 2/Week 2.md",
@@ -173,7 +174,6 @@
     "Programming Concepts/Week 3/Week 3 - Classes & Objects.md",
     "Programming Concepts/Week 2/Week 2 - Selection & Iteration.md",
     "Programming Concepts/Week 1/Week 1 - Programming Concepts.md",
-    "Assignment/Assignment Story.md",
     "Assignment",
     "Work Based Learning/Week 1",
     "Programming Concepts/Week 5",
