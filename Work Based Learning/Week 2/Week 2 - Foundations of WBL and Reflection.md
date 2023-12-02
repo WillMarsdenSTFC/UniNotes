@@ -20,3 +20,14 @@
 - Self-Appraisal
 - Team Working
 - Using, and acting as, a consultant
+
+
+# On/Off the job training
+
+- You can receive off-the job training in your business away from your normal work area.
+- Role Play/Simulations
+
+# Effectiveness of training
+
+- To evaluate, effectiveness of training needs to be ***measured***.
+- 
