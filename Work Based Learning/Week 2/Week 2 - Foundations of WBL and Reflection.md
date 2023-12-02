@@ -5,4 +5,4 @@
 - Exploit the workplace as a learning resource.
 - Manage oneself (and others).
 - Reflect on what has been learnt in and from the workplace.
-- Transfer existing knowledge, capabilities and competences to new or different contexts.
+- Transfer existing knowledge, capabilities and competences to new or different contexts. 
