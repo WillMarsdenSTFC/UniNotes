@@ -6,5 +6,5 @@
 
 # Software Engineer Pathway
 
-- Analysis, Design, Code, Build, Test, Implementation, Support
-- 
+- Gathering Requirements, Analysis, Design, Code, Build, Test, Implementation, Support.
+- Creating new code, supporting existing, reverse engineering and root cause analysis.
