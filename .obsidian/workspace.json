@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0155b5e8f96c3bf3",
+        "id": "cf19a26cfb92f15d",
         "type": "tabs",
         "children": [
           {
-            "id": "450ae7b0976076c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignment/Notes/Work Based Learning/Assignment To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d095cd5406ac3177",
+            "id": "6ae300fa6a8540c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "24b969c9c5380fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
+                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/Self-Assessment Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
+                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/Self-Assessment Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md"
+                "file": "Assignment/Notes/Work Based Learning/Self-Assessment/Self-Assessment Draft.md"
               }
             }
           }
@@ -171,13 +146,75 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24b969c9c5380fce",
+  "floating": {
+    "id": "058523b44f7ebc71",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b4c72014446b78ab",
+        "type": "window",
+        "children": [
+          {
+            "id": "831f4b2fc81eca7a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24b969c9c5380fce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "450ae7b0976076c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Assignment/Notes/Work Based Learning/Assignment To-Do.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d095cd5406ac3177",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Assignment/Notes/Work Based Learning/Self-Assessment/Job Role.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 900,
+        "y": 38,
+        "width": 900,
+        "height": 1057,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6ae300fa6a8540c7",
   "lastOpenFiles": [
-    "Assignment/Notes/Work Based Learning/Self-Assessment/Self-Assessment Draft.md",
-    "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
-    "Assignment/Notes/Work Based Learning/Assignment To-Do.md",
-    "Assignment/Notes/Data Fundamentals/Assignment To-Do.md",
     "Assignment/Notes/Work Based Learning/Self-Assessment/Job Role.md",
+    "Assignment/Notes/Work Based Learning/Self-Assessment/Self-Assessment Draft.md",
+    "Assignment/Notes/Work Based Learning/Assignment To-Do.md",
+    "Assignment/Notes/Work Based Learning/Self-Assessment/STFC Corporate Plan.md",
+    "Assignment/Notes/Data Fundamentals/Assignment To-Do.md",
     "Assignment/Notes/Work Based Learning/Self-Assessment/Apprenticeship Summary.md",
     "Assignment/Notes/Data Fundamentals",
     "Assignment/Notes/Work Based Learning",
