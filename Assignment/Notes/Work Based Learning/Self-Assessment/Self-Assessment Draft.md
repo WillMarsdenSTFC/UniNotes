@@ -27,3 +27,6 @@ I was also required to learn about Jupyter notebooks and the service, Jupyter Hu
 Although my role is not directly linked to Software Engineering, I have had projects with other departments which involve key duties of the software engineering pathway duties. 
 
 One of these that can be exampled is when I created the, "Game of life" game for a high-performance Raspberry pi cluster for demonstration purposes. To make sure the needs of the department were fulfilled, I gathered the requirements needed such as making sure the game ran on multiple cores across multiple nodes using MPI (Message Passing Interface). This is relevant to my role as I work along-side Technical Services Operation Group (TSOG) to offer and receive technical support. It is also relevant to STFC as my game will be shown in public engagement events, which could benefit their public image or increase demand for jobs and apprenticeships by showing off their work.
+
+# Key Competencies
+
